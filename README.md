@@ -7,12 +7,12 @@ Cryptocurrencies such as Bitcoin and Ethereum make use of an Elliptic Curve Digi
 | Attribute | Explanation |
 | - | - |
 | Summary | The lab will explore the concept of Elliptic Curve Cryptography from a video done by Computerphile on Youtube. |
-| Topics | Elliptic Curve Crytography,  |
-| Audience | CS1 and above |
+| Topics | Elliptic Curve Cryptography, security, ECDSA |
+| Audience | CS1 and above. |
 | Difficulty | Beginner. |
 | Strengths | Concept is learned from a comprehensive source, backed up by a test of retention. |
 | Weaknesses | The mathematics of Elliptic Curve Cryptography might be intimidating, even if this lab keeps it to a minimum. |
-| Dependencies | Internet connection, access to youtube.com |
+| Dependencies | Internet connection, access to youtube.com. |
 | Variants | This format of lab may be used for RSA-key cryptography as well. |
 
 ## Assignment Instructions
