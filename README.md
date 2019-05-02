@@ -16,7 +16,7 @@ Cryptocurrencies such as Bitcoin and Ethereum make use of an Elliptic Curve Digi
 | Variants | This format of lab may be used for RSA-key cryptography as well. |
 
 ## Assignment Instructions
-1. Click on the video below and watch it. It may take several watches to understand Elliptic Curve Crytography. Special thanks to [Computerphile on Youtube](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) for creating amazing resources in Mathematics and Computer Science.
+1. Click on the video below and watch it. It may require multiple viewings to grasp the concept, that's okay. Special thanks to [Computerphile on Youtube](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) for creating amazing resources in Mathematics and Computer Science.
 [![Computerphile on Youtube](video.PNG)](https://www.youtube.com/watch?v=NF1pwjL9-DE)
 2. Answer the following questions:
 * In simple terms, what is the Diffie-Hellman key exchange used for?
