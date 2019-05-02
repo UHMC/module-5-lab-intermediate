@@ -31,7 +31,11 @@ Cryptocurrencies such as Bitcoin and Ethereum make use of an Elliptic Curve Digi
     * If more than one, why would there be more?
 
 3. If you are still interested in Elliptic Curve Cryptography, these are very interesting resources to look at:
-    * https://safecurves.cr.yp.to - Repository of safe curves
+    * https://safecurves.cr.yp.to - Repository of safe curves.
+	* https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/ - Ars Technica primer on ECC.
+	* https://hackernoon.com/eliptic-curve-crypto-the-basics-e8eb1e934dc5 - Hackernoon's primer on ECC. (It has comparisons to RSA!) 
+	* https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/ - Cloudflare's primer on ECC.
+	* https://it.slashdot.org/story/13/09/11/1224252/are-the-nist-standard-elliptic-curves-back-doored - Does the NIST p-curve have a backdoor? 
 ## Credits
 Dr. Debasis Bhattacharya  
 Mario Canul  
