@@ -1,4 +1,4 @@
-# Module 5 - Intermediate Lab: Cryptography
+# Module 5 - Intermediate Lab: Elliptic Curve Cryptography 
 
 ## Background
 Cryptocurrencies such as Bitcoin and Ethereum make use of an Elliptic Curve Digital Signing Algorithm (ECDSA). The use of cryptographic systems like this involves certification of some data (e.g. a transaction) by or authentication of the possessors of the private keys, and verification by the possessors of public keys. ECDSA is a different paradigm than that of the commonly used RSA-key cryptography. This lab will explore more about it. 
@@ -16,8 +16,8 @@ Cryptocurrencies such as Bitcoin and Ethereum make use of an Elliptic Curve Digi
 | Variants | This format of lab may be used for RSA-key cryptography as well. |
 
 ## Assignment Instructions
-1. Click on the video below and watch it. It may take several watches to understand Elliptic Curve Crytography. Special thanks to Computerphile on Youtube for creating amazing resources in Mathematics and Computer Science.
-![Computerphile on Youtube](video.PNG)
+1. Click on the video below and watch it. It may take several watches to understand Elliptic Curve Crytography. Special thanks to [Computerphile on Youtube](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) for creating amazing resources in Mathematics and Computer Science.
+[![Computerphile on Youtube](video.PNG)](https://www.youtube.com/watch?v=NF1pwjL9-DE)
 2. Answer the following questions:
 * In simple terms, what is the Diffie-Hellman key exchange used for?
 * An Elliptic Curve is just some set of numbers. (TRUE OR FALSE)
@@ -26,11 +26,14 @@ Cryptocurrencies such as Bitcoin and Ethereum make use of an Elliptic Curve Digi
 * When adding Generator points together, is it possible to intersect more than one point? (TRUE OR FALSE)
 * What is a private key in the context of Elliptic Curve Cryptography?
 * If I have private key a and you have private key b, and we know the Generator point G, what is our shared secret?
+* If you’re the owner of a huge datacenter that wishes to implement some type of cryptographic security, why would you bother with Elliptic Curve Cryptography?
+* Is there only one curve? (TRUE OR FALSE)
+    * If more than one, why would there be more?
 
 3. If you are still interested in Elliptic Curve Cryptography, these are very interesting resources to look at:
-    * 
+    * https://safecurves.cr.yp.to - Repository of safe curves
 ## Credits
 Dr. Debasis Bhattacharya  
 Mario Canul  
-Saxon Knight
+Saxon Knight  
 Computerphile on Youtube
